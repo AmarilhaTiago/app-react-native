@@ -18,6 +18,7 @@ const estilos = StyleSheet.create({
         borderColor: "#ECECEC",
         paddingVertical: 16,
         alignItems: "center",
+        marginHorizontal: 16,
     },
     imagem: {
         width: 46,
